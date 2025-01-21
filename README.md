@@ -65,5 +65,5 @@
   />
   <br/>
   <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroHenriqueLomba&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroHenriqueLomba&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&cache_seconds=1800" />
 </div>
